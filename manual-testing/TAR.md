@@ -1,5 +1,5 @@
 
-# Test Acceptance Report
+# Test Acceptance Report (TAR)
 
 ## 1. Test Run Information
 
