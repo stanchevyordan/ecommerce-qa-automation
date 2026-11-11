@@ -5,9 +5,9 @@
 
 - **Bug ID:** BUG-001
 - **Title:** [Short and descriptive bug title]
-- **Reported By:** QA Tester
-- **Date Reported:** YYYY-MM-DD
-- **Environment:** [Browser, OS, application version]
+- **Reported By:** Yordan Stanchev
+- **Date Reported:** 1998-09-25
+- **Environment:** [Google Chrome, Windows 11]
 - **Related Test Case:** [TC-XXX]
 
 ## 2. Bug Classification
