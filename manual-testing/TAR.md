@@ -24,8 +24,8 @@
 
 | Test Case ID | Test Case Description | Status | Actual Result | Comments |
 |---|---|---|---|---|
-| TC-001 | Successful user registration | NOT RUN | - | - |
-| TC-002 | Registration with existing email | NOT RUN | - | - |
+| TC-001 | Homepage loads successfully | PASS | - | Initial exploration |
+| TC-002 | Login / Registration page opens | PASS | - | Initial exploration |
 | TC-003 | Registration with invalid email | NOT RUN | - | - |
 | TC-004 | Registration with missing required fields | NOT RUN | - | - |
 | TC-005 | Successful login | NOT RUN | - | - |
